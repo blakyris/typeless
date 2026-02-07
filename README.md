@@ -14,9 +14,9 @@
      └────────────────────────────────────┘
 ```
 
-> Give Claude deep TypeScript expertise, grounded in official documentation — not just training data.
+# TypeScript Skill for Claude Code
 
-This [Claude Code skill](https://docs.anthropic.com/en/docs/claude-code/skills) equips Claude with  complete TypeScript knowledge as searchable reference material.
+This [Claude Code skill](https://docs.anthropic.com/en/docs/claude-code/skills) gives Claude with complete TypeScript knowledge as searchable reference material.
 
 ---
 
